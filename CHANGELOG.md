@@ -1,2 +1,2 @@
-1.0.0 (July 24, 2020)
+1.0.0 (August 13, 2020)
 Initial release
